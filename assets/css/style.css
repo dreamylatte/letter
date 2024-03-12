@@ -138,15 +138,21 @@ input#open {
 }
 
 .text-one::before {
-    content: "Velentine's";
+    content: "Well";
     top: 30px;
     color: #d04e4e;
 }
 
 .text-one::after {
-    content: "day!";
+    content: "Soon !";
     top: 60px;
     color: #430404;
+}
+
+.text-one::before {
+    content: "Litaa";
+    top: 30px;
+    color: #d04e4e;
 }
 
 .heart {
