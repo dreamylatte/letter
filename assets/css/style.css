@@ -144,13 +144,13 @@ input#open {
 }
 
 .text-one::after {
-    content: "Soon !";
+    content: "Soon Lita";
     top: 60px;
     color: #430404;
 }
 
 .text-one::before {
-    content: "Litaa";
+    content: "Well";
     top: 30px;
     color: #d04e4e;
 }
