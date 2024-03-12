@@ -144,7 +144,7 @@ input#open {
 }
 
 .text-one::after {
-    content: "Soon Lita";
+    content: "Soon Lita!";
     top: 60px;
     color: #430404;
 }
